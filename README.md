@@ -1,6 +1,6 @@
 # GameSense: Advanced Player Retention Prediction
 
-![GameSense: Advanced Player Retention Prediction]("D:\DATA SCIENCE CLASS\PROJECTS\Player Retention Prediction\Image\DALL·E 2024-08-28 17.46.46 - A sleek, modern image for a GitHub repository titled 'GameSense_ Advanced Player Retention Prediction'. The image should feature a gaming theme, incor.webp")
+![GameSense: Advanced Player Retention Prediction](CoverPage.png)
 
 ## **Overview**
 
