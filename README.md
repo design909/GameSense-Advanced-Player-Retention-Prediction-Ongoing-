@@ -1,4 +1,4 @@
-# GameSense: Advanced Player Retention Prediction
+# GameSense: Advanced Player Retention Prediction (Ongoing)
 
 ![GameSense: Advanced Player Retention Prediction](CoverPage.png)
 
